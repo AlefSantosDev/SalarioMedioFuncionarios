@@ -1,0 +1,14 @@
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\bin\Debug\net10.0\SalarioMedioFuncionario.exe
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\bin\Debug\net10.0\SalarioMedioFuncionario.deps.json
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\bin\Debug\net10.0\SalarioMedioFuncionario.runtimeconfig.json
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\bin\Debug\net10.0\SalarioMedioFuncionario.dll
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\bin\Debug\net10.0\SalarioMedioFuncionario.pdb
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\obj\Debug\net10.0\SalarioMedioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\obj\Debug\net10.0\SalarioMedioFuncionario.AssemblyInfoInputs.cache
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\obj\Debug\net10.0\SalarioMedioFuncionario.AssemblyInfo.cs
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\obj\Debug\net10.0\SalarioMedioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\obj\Debug\net10.0\SalarioMedioFuncionario.dll
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\obj\Debug\net10.0\refint\SalarioMedioFuncionario.dll
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\obj\Debug\net10.0\SalarioMedioFuncionario.pdb
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\obj\Debug\net10.0\SalarioMedioFuncionario.genruntimeconfig.cache
+C:\Users\Alef\Desktop\Projetos\C#\SalarioMedioFuncionario\SalarioMedioFuncionario\obj\Debug\net10.0\ref\SalarioMedioFuncionario.dll
