@@ -1,4 +1,4 @@
 # SalarioMedioFuncionarios
 
-m programa para ler nome e salário de dois funcionários. Depois, mostrar o salário
+um programa para ler nome e salário de dois funcionários. Depois, mostrar o salário
 médio dos funcionários.
